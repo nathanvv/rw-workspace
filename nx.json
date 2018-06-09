@@ -6,6 +6,12 @@
     },
     "rlm-e2e": {
       "tags": []
+    },
+    "chat": {
+      "tags": []
+    },
+    "chat-e2e": {
+      "tags": []
     }
   }
 }
