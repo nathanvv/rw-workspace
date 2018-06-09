@@ -1,5 +1,11 @@
 {
   "npmScope": "rw-workspace",
   "projects": {
+    "rlm": {
+      "tags": []
+    },
+    "rlm-e2e": {
+      "tags": []
+    }
   }
 }
