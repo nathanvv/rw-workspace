@@ -11,5 +11,7 @@
   ],
   "include": [
     "**/*.ts"
-  ]
+
+    , "../libs/shared/auth/src/index.ts"
+]
 }
