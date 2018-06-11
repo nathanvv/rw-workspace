@@ -24,6 +24,9 @@
       ]
     }
   },
+  "files": [
+    "libs/shared/auth/src/index.ts"
+  ],
   "exclude": [
     "node_modules",
     "tmp"
